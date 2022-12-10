@@ -1,6 +1,6 @@
 # Personal-READme
 # 💫 About Me:
-🔭 I’m currently working on a Full Stack Web Application Tech Blog<br>👯 I’m looking to collaborate on any Projects you may need help on<br>🤝 I’m looking for help with MongoDB and utilizing Insomnia<br>🌱 I’m currently learning Progressive Web Applications<br>💬 Ask me about Anything in the universe<br>⚡ Fun fact I love investing and technology that makes life easier
+🔭 I’m currently looking for any work<br>👯 I’m looking to collaborate on any Projects you may need help on<br>🤝 I’m looking for help with MongoDB and utilizing Insomnia<br>🌱 I’m currently learning Progressive Web Applications<br>💬 Ask me about Anything in the universe<br>⚡ Fun fact I love investing and technology that makes life easier
 
 
 ## 🌐 Socials:
